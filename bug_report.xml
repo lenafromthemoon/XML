@@ -1,0 +1,13 @@
+<id>1</id>
+  <summary>Incorrect result of addition (+) for three-digit numbers in calculator</summary>
+  <STR>
+     <step1>Run calc.exe</step1>
+     <step2>click [4] button three times</step2>
+     <step3>click [+] button</step3>
+     <step4>click [4] button three times</step4>
+     <step5>click [=] button</step5>
+   </STR>
+  <ER>888</ER>
+  <AR>903</AR>
+  <severity>critical</severity>
+  <priority>high</priority>
