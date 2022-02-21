@@ -1,0 +1,6 @@
+<git_bash>
+	<commands>mkdir, touch, cd, find, tail, less, cat, pwd, ls, rm, mv, cp, date</commands>
+</git_bash>
+<git_hub>
+	<commands>clone, add, commit, push, pull</commands>
+</git_hub>
