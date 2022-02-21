@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<firstname>Elena</firstname>
+	<lastname>Kanshina</lastname>
+	<age>30</age>
+		<dogs>
+			<name1>Ellie</name2>
+			<name2>Bun</name2>
+		</dogs>
+	<desired_salary>500</desired_salary>
+</person>
