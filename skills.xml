@@ -2,5 +2,5 @@
 	<commands>mkdir, touch, cd, find, tail, less, cat, pwd, ls, rm, mv, cp, date</commands>
 </git_bash>
 <git_hub>
-	<commands>clone, add, commit, push, pull</commands>
+	<commands>clone, add, commit, push, pull, branch, checkout, merge</commands>
 </git_hub>
